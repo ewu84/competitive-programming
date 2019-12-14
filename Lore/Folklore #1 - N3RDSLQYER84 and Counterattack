@@ -1,0 +1,71 @@
+N3RDSLQYER84 and Counterattack:
+
+
+Backstory:
+
+	This is a story for the generations. A timeless work of art. An unparalleled classic.
+
+	A masterpiece. 
+
+	This is the story of N3RDSLQYER84 and the first Python AC on Counterattack. https://dmoj.ca/problem/ncco4d1p3
+	To this day, it continues to amaze, to stun, to inspire people to do the unthinkable. To do the impossible.
+
+	Get your tissues ready. To cry.
+
+The Story:
+
+	N3RDSLQYER84 was feeling good. 
+	He just did The Hungary Games (https://dmoj.ca/problem/cco12p2), an exact replica of Counterattack, which he would do today.
+
+	After tweaking the code for a bit, he submitted. AC, AC, AC... TLE??? 
+	He managed to pass every case, except for the last one, which was worth 15/92 points. 
+	"17pp huh... not bad", he thought. "Maybe the judge is running slow today."
+
+	With this thought in mind, he resubmitted his code. "Hmm...", he thought as it TLE'd again. "Perhaps again?"
+
+	The rest of the day was spent in anguish, resubmitting his code. By the end of it, he was worn out. He was out of ideas.
+	He was on the verge of giving up. 
+
+	Slowly, he walked to his room and collapsed into his bed. He closed his eyes.
+
+	But he couldn't sleep.
+
+	In his head, 3 grey letters kept appearing. TLE T L E  T  L  E   T   L   E
+
+	"STOP!", he shouted.
+	"What's wrong?", his mom came rushing in.
+	"SHUT UP MOM GET OUT MY ROOM", N3RDSLQYER84 roared.
+
+	***
+
+	Without a wink of sleep, N3RDSLQYER84 got out of bed. 
+	
+	He was up late thinking about Counterattack. Perhaps he had missed something.
+	
+	The thought followed him all throughout the day. Perhaps...he should have submitted in PyPy2?
+	How could the thought have evaded him? He rushed to his computer.
+
+	Out of breath, he opened dmoj.ca. He pasted his code, selected PyPy2, and... clicked submit.
+
+	AC. AC. MLE. MLE. MLE.
+
+	Of course it wouldn't be that simple. Tears started rolling down N3RDSLQYER84's eyes. He collapsed in front of his computer.
+	"Of course. Of course. Of course!", he cried. "I was so naiive. So clueless. Maybe some things should be left impossible."
+
+	He raised his head. Then he realized. 
+
+	Even though his code MLE'd... dmoj displayed his output! The answer...it was so near!
+
+	He could feel it. He could sense it. He could smell it. He could touch it. He could...
+
+	HARDCODE IT.
+
+	His tears instantly evaporated. Then, he typed 3 lines of code, which will be respected and studied for centuries to come:
+	
+	-----------------------
+	if n > 1000:
+   		print(5729)
+    		sys.exit()
+	-----------------------
+
+	THE END
