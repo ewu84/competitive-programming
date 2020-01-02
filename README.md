@@ -1,2 +1,2 @@
-# Competitive-Programming-2
-Reupload.
+# competitive-programming
+Solutions and Templates
