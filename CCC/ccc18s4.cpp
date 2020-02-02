@@ -46,4 +46,4 @@ int main() {
     return 0;
 
 }
-//key observation: floor(5/3) = floor(3/3).... -> floor(x/y) = floor(x/(x/y)+1) + 1
+
