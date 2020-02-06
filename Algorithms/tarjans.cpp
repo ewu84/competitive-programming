@@ -17,10 +17,10 @@ int idx = 0;
 bitset<5001> inStk;
 int dfn[MN];
 stack<int> stk;
-int val[MN];
+int low[MN];
 int comp[MN];
 void tarjan(int u) {
-    dfn[u]=val[u]=idx++;
+    dfn[u]=low[u]=idx++;
     stk.push(u);
     inStk[u] = 1;
     for (int i : graph[u]) {
@@ -28,7 +28,7 @@ void tarjan(int u) {
             tarjan(i);
         }
     }
-    if (dfn[u] == val[u]) {
+    if (dfn[u] == low[u]) {
         while (!stk.empty()) {
             int t = stk.top();
             stk.pop();
