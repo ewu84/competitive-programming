@@ -27,6 +27,9 @@ void tarjan(int u) {
         if (dfn[i] == -1) {
             tarjan(i);
         }
+        else {
+            low[u] = min(low[u], dfn[i]);
+        }
     }
     if (dfn[u] == low[u]) {
         while (!stk.empty()) {
