@@ -20,4 +20,14 @@ def dfs(node, p, s):
         return 1
     return 0
 
-#astrocat879 implementation 
+
+for _ in range(int(input())):
+    n = int(input())
+    root = Node("")
+    ans = 0
+    for i in range(n):
+        tmp = input().strip('\n')
+        ans += dfs(root, 0, tmp)
+    print("Case #"+str(_+1)+": "+str(ans))
+
+#astrocat879 implementation, used for autocomplete
