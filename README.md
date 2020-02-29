@@ -1,3 +1,2 @@
 # competitive-programming
-good good good
-jk
+posting boosts my ego
