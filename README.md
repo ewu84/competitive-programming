@@ -1,2 +1,2 @@
 # competitive-programming
-posting boosts my ego
+posting boosts my delusional ego
