@@ -12,8 +12,7 @@ typedef pair<ll, ll> pll;
 typedef vector<pii> vpii;
 typedef vector<pll> vpll;
 typedef vector<ll> vll;
-const int MN = 3e3+5, BASE=31, MOD=1e9+7;
-const ll INF=1e18;
+const int MN = 3e3+5;
 ll fpow(ll b, ll exp, ll mod){if(exp == 0) return 1;ll t = fpow(b,exp/2,mod);if(exp&1) return t*t%mod*b%mod;return t*t%mod;}
 ll divmod(ll i, ll j, ll mod){i%=mod,j%=mod;return i*fpow(j,mod-2,mod)%mod;}
 long double dp[MN][MN];
